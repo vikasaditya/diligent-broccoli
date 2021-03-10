@@ -52,10 +52,10 @@ sections:
       - title: Cool Feature of Your Services
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: |
+          *   In ante enim, 
+
+          *   ssssssssss
         actions:
           - label: Learn More
             url: /features
